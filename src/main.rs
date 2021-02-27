@@ -36,9 +36,13 @@ pub struct MultishapeTag;
 
 #[bevy_main]
 fn main() {
-    App::build()
-        .add_plugins(DefaultPlugins)
-        .add_plugin(RapierPhysicsPlugin)
+    let mut app = App::build();
+    app.add_plugins(DefaultPlugins);
+
+    #[cfg(target_arch = "wasm32")]
+    app.add_plugin(bevy_webgl2::WebGL2Plugin);
+    
+    app.add_plugin(RapierPhysicsPlugin)
         .add_plugin(EguiPlugin)
         .add_plugin(ShapePlugin)
         .add_plugin(DemoCameraPlugin)
