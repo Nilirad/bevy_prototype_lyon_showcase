@@ -1,7 +1,12 @@
 [package]
 authors = ["Federico Rinaldi <gisquerin@gmail.com>"]
+categories = ["game-engines", "graphics", "rendering"]
 edition = "2018"
+keywords = ["game", "shapes", "gamedev", "graphics", "bevy"]
+license = "MIT"
 name = "bevy_prototype_lyon_showcase"
+readme = "README.md"
+repository = "https://github.com/Nilirad/bevy_prototype_lyon_showcase/"
 version = "0.2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
@@ -11,3 +16,4 @@ bevy = "0.4.0"
 bevy_egui = "0.2.0"
 bevy_prototype_lyon = "0.2.0"
 bevy_rapier2d = "0.8.0"
+rand = "0.8"
