@@ -1,6 +1,7 @@
 [package]
 authors = ["Federico Rinaldi <gisquerin@gmail.com>"]
 categories = ["game-engines", "graphics", "rendering"]
+description = "Bevy app showing bevy_prototype_lyon features"
 edition = "2018"
 keywords = ["game", "shapes", "gamedev", "graphics", "bevy"]
 license = "MIT"
