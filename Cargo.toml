@@ -34,3 +34,7 @@ bevy_rapier2d = "0.8.0"
 bevy_webgl2 = {version = "0.4.3", optional = true}
 getrandom = {version = "0.1", features = ["wasm-bindgen"]}
 rand = {version = "0.8", features = ["getrandom"]}
+
+[profile.release]
+lto = true
+opt-level = "s"
