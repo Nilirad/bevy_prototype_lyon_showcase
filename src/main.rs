@@ -23,7 +23,6 @@ use bevy_rapier2d::{
 use demo_camera_plugin::DemoCameraPlugin;
 use demo_inspector_plugin::DemoInspectorPlugin;
 use demo_ui_plugin::DemoUiPlugin;
-use rand::Rng;
 
 mod demo_camera_plugin;
 mod demo_inspector_plugin;
@@ -41,7 +40,7 @@ fn main() {
 
     #[cfg(target_arch = "wasm32")]
     app.add_plugin(bevy_webgl2::WebGL2Plugin);
-    
+
     app.add_plugin(RapierPhysicsPlugin)
         .add_plugin(EguiPlugin)
         .add_plugin(ShapePlugin)
@@ -77,7 +76,6 @@ fn physics_showoff(commands: &mut Commands, materials: &mut ResMut<Assets<ColorM
 
     physics_static_geometry(commands);
 
-    let mut rng = rand::thread_rng();
     let circle_interaction_groups = InteractionGroups::new(0x0002, 0x0001);
     let colors = vec![TRANSPARENT_RED, TRANSPARENT_GREEN, TRANSPARENT_BLUE];
     let num_colors = colors.len();
@@ -85,9 +83,9 @@ fn physics_showoff(commands: &mut Commands, materials: &mut ResMut<Assets<ColorM
         let x = CIRCLE_RADIUS * 1.5 * (PI_2 / num_colors as f32 * i as f32).cos();
         let y = CIRCLE_RADIUS * 1.5 * (PI_2 / num_colors as f32 * i as f32).sin();
 
-        let dir_x = (rng.gen::<f32>() - 0.5) * 2.0; // rand number in [-1.0, 1.0]
-        let dir_y = (rng.gen::<f32>() - 0.5) * 2.0;
-        let speed = (rng.gen::<f32>() * 75.0).max(25.0);
+        let dir_x = (rand::random::<f32>() - 0.5) * 2.0; // rand number in [-1.0, 1.0]
+        let dir_y = (rand::random::<f32>() - 0.5) * 2.0;
+        let speed = (rand::random::<f32>() * 75.0).max(25.0);
         let vel = Vec2::new(dir_x, dir_y).normalize() * speed;
 
         let rigid_body = RigidBodyBuilder::new_dynamic()
