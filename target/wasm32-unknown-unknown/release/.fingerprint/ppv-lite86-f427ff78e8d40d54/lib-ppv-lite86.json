@@ -1,0 +1,1 @@
+{"rustc":15277666408380236820,"features":"[\"simd\", \"std\"]","target":3618425480033327174,"profile":1628797363314669463,"path":5763552720359318561,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown\\release\\.fingerprint\\ppv-lite86-f427ff78e8d40d54\\dep-lib-ppv-lite86"}}],"rustflags":[],"metadata":14155036307809790115,"config":0}

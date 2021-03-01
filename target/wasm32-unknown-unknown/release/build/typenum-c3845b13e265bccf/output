@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\build\typenum-c3845b13e265bccf\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\build\typenum-c3845b13e265bccf\out\op.rs

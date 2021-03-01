@@ -1,0 +1,1 @@
+{"rustc":15277666408380236820,"features":"[\"default\", \"std\"]","target":17580091255899758266,"profile":1628797363314669463,"path":425308586592143653,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown\\release\\.fingerprint\\adler32-c897f452d6eb367d\\dep-lib-adler32"}}],"rustflags":[],"metadata":13834635900547905832,"config":0}

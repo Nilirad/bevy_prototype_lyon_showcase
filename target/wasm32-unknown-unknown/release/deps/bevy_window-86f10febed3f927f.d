@@ -1,0 +1,11 @@
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\bevy_window-86f10febed3f927f.rmeta: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\event.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\system.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\window.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\windows.rs
+
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\libbevy_window-86f10febed3f927f.rlib: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\event.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\system.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\window.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\windows.rs
+
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\bevy_window-86f10febed3f927f.d: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\event.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\system.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\window.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\windows.rs
+
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\lib.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\event.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\system.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\window.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\bevy_window-0.4.0\src\windows.rs:

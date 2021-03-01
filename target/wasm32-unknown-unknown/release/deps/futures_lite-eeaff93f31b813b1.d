@@ -1,0 +1,11 @@
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\futures_lite-eeaff93f31b813b1.rmeta: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\future.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\prelude.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\stream.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\io.rs
+
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\libfutures_lite-eeaff93f31b813b1.rlib: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\future.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\prelude.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\stream.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\io.rs
+
+C:\dev\rust\my_projects\bevy_projects\bevy_prototype_lyon_showcase\target\wasm32-unknown-unknown\release\deps\futures_lite-eeaff93f31b813b1.d: C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\lib.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\future.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\prelude.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\stream.rs C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\io.rs
+
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\lib.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\future.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\prelude.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\stream.rs:
+C:\Users\rinal\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-lite-1.11.3\src\io.rs:
